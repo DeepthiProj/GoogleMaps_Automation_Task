@@ -45,7 +45,7 @@ GoogleMapsAutomation/
     - reports.html
 - GoogleMapsTest.cs
  
-
+Note: Reports folder will created dynamically once the test execution is done.
 
 ## Installation
 
