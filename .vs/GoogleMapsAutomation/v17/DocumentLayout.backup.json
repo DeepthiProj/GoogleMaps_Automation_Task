@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajki\\Maps\\TestProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50BC7496-3921-4384-8118-CAB7C1A3F29A}|TestProject1\\GoogleMapsAutomation.csproj|c:\\users\\rajki\\maps\\testproject1\\testproject1\\pages\\googlemapsdirectionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BC7496-3921-4384-8118-CAB7C1A3F29A}|TestProject1\\GoogleMapsAutomation.csproj|solutionrelative:testproject1\\pages\\googlemapsdirectionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BC7496-3921-4384-8118-CAB7C1A3F29A}|TestProject1\\GoogleMapsAutomation.csproj|c:\\users\\rajki\\maps\\testproject1\\testproject1\\googlemapstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BC7496-3921-4384-8118-CAB7C1A3F29A}|TestProject1\\GoogleMapsAutomation.csproj|solutionrelative:testproject1\\googlemapstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BC7496-3921-4384-8118-CAB7C1A3F29A}|TestProject1\\GoogleMapsAutomation.csproj|c:\\users\\rajki\\maps\\testproject1\\testproject1\\utils\\extentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BC7496-3921-4384-8118-CAB7C1A3F29A}|TestProject1\\GoogleMapsAutomation.csproj|solutionrelative:testproject1\\utils\\extentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BC7496-3921-4384-8118-CAB7C1A3F29A}|TestProject1\\GoogleMapsAutomation.csproj|c:\\users\\rajki\\maps\\testproject1\\testproject1\\utils\\appiumcapabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BC7496-3921-4384-8118-CAB7C1A3F29A}|TestProject1\\GoogleMapsAutomation.csproj|solutionrelative:testproject1\\utils\\appiumcapabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BC7496-3921-4384-8118-CAB7C1A3F29A}|TestProject1\\GoogleMapsAutomation.csproj|c:\\users\\rajki\\maps\\testproject1\\testproject1\\pages\\googlemapslandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BC7496-3921-4384-8118-CAB7C1A3F29A}|TestProject1\\GoogleMapsAutomation.csproj|solutionrelative:testproject1\\pages\\googlemapslandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtentManager.cs",
+              "DocumentMoniker": "C:\\Users\\rajki\\Maps\\TestProject1\\TestProject1\\Utils\\ExtentManager.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Utils\\ExtentManager.cs",
+              "ToolTip": "C:\\Users\\rajki\\Maps\\TestProject1\\TestProject1\\Utils\\ExtentManager.cs",
+              "RelativeToolTip": "TestProject1\\Utils\\ExtentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:44:11.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoogleMapsTests.cs",
+              "DocumentMoniker": "C:\\Users\\rajki\\Maps\\TestProject1\\TestProject1\\GoogleMapsTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\GoogleMapsTests.cs",
+              "ToolTip": "C:\\Users\\rajki\\Maps\\TestProject1\\TestProject1\\GoogleMapsTests.cs",
+              "RelativeToolTip": "TestProject1\\GoogleMapsTests.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAvwIIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T01:55:17.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoogleMapsDirectionsPage.cs",
+              "DocumentMoniker": "C:\\Users\\rajki\\Maps\\TestProject1\\TestProject1\\Pages\\GoogleMapsDirectionsPage.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Pages\\GoogleMapsDirectionsPage.cs",
+              "ToolTip": "C:\\Users\\rajki\\Maps\\TestProject1\\TestProject1\\Pages\\GoogleMapsDirectionsPage.cs",
+              "RelativeToolTip": "TestProject1\\Pages\\GoogleMapsDirectionsPage.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAuwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T02:07:43.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppiumCapabilities.cs",
+              "DocumentMoniker": "C:\\Users\\rajki\\Maps\\TestProject1\\TestProject1\\Utils\\AppiumCapabilities.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Utils\\AppiumCapabilities.cs",
+              "ToolTip": "C:\\Users\\rajki\\Maps\\TestProject1\\TestProject1\\Utils\\AppiumCapabilities.cs",
+              "RelativeToolTip": "TestProject1\\Utils\\AppiumCapabilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:41:02.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoogleMapsLandingPage.cs",
+              "DocumentMoniker": "C:\\Users\\rajki\\Maps\\TestProject1\\TestProject1\\Pages\\GoogleMapsLandingPage.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Pages\\GoogleMapsLandingPage.cs",
+              "ToolTip": "C:\\Users\\rajki\\Maps\\TestProject1\\TestProject1\\Pages\\GoogleMapsLandingPage.cs",
+              "RelativeToolTip": "TestProject1\\Pages\\GoogleMapsLandingPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:12:50.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
