@@ -1,4 +1,4 @@
-# Android_GoogleMaps_task
+# Android_GoogleMaps_Task
 
  This project is intended to automate Google Maps on Android.
 
@@ -13,18 +13,24 @@ This project uses **WebdriverIO** in combination with **Appium** to automate mob
 ## Prerequisites
 
  1. Install Dependencies via NuGet:
+    
     -> Selenium.WebDriver
+    
     -> Selenium.Support
+    
     -> Appium.WebDriver
-    -> NUnit (for assertions)
-    -> ExtentReport 
-2. Set Up Appium Server (Download from Appium.io)
-3. Enable Developer Mode on Android and Connect via USB (or use an emulator)
-4. Specify the Google Maps Package and Activity:
+    
+    -> NUnit
+    
+    -> ExtentReport
+    
+3. Set Up Appium Server (Download from Appium.io)
+4. Enable Developer Mode on Android and Connect via USB (or use an emulator)
+5. Specify the Google Maps Package and Activity:
     -> Package Name: com.google.android.apps.maps
     -> Main Activity: com.google.android.maps.MapsActivity
-5. Visual Studios
-6. Android SDK & Emulator
+6. Visual Studios
+7. Android SDK & Emulator
    
 
 ## Package Structure
@@ -51,16 +57,6 @@ Follow the steps below to set up the project locally:
 Clone the project to your local machine using Git:
 
 git clone https://github.com/DeepthiProj/GoogleMaps_Automation_TaskTask.git
-
-## Installation
-
-Install Dependencies via NuGet:
-    -> Selenium.WebDriver
-    -> Selenium.Support
-    -> Appium.WebDriver
-    -> NUnit (for assertions)
-    -> ExtantReport 
-
 
 ## Running Tests
 1. Start the Appium Server. (It is done Programmatically on AppiumCapabilities.cs)
