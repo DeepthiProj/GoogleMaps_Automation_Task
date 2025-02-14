@@ -2,14 +2,6 @@
 
  This project is intended to automate Google Maps on Android.
 
-## Project Description
-
-This project uses **WebdriverIO** in combination with **Appium** to automate mobile testing for Web browser and Android applications. It supports running tests on Android  real devices and Chrome browser on web.
-
-### Key Features:
-- Native app automation using **Appium** for **Android**.
-- **Page Object Model (POM)** to structure the test code, keeping page-specific actions and assertions separate from the actual test logic.
-
 ## Prerequisites
 
  1. Install Dependencies via NuGet:
