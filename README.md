@@ -19,7 +19,9 @@
 3. Set Up Appium Server (Download from Appium.io)
 4. Enable Developer Mode on Android and Connect via USB (or use an emulator)
 5. Specify the Google Maps Package and Activity:
+   
     -> Package Name: com.google.android.apps.maps
+   
     -> Main Activity: com.google.android.maps.MapsActivity
 6. Visual Studios
 7. Android SDK & Emulator
