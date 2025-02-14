@@ -56,7 +56,7 @@ Follow the steps below to set up the project locally:
 
 Clone the project to your local machine using Git:
 
-git clone https://github.com/DeepthiProj/GoogleMaps_Automation_TaskTask.git
+git clone https://github.com/DeepthiProj/GoogleMaps_Automation_Task.git
 
 ## Running Tests
 1. Start the Appium Server. (It is done Programmatically on AppiumCapabilities.cs)
