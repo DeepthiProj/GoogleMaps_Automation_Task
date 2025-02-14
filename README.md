@@ -10,11 +10,16 @@
     
     -> Selenium.Support
     
+    -> SeleniumExtras.WaitHelpers
+
+    
     -> Appium.WebDriver
     
     -> NUnit
     
     -> ExtentReport
+
+    If any doubts related to packages please check GoogleMapsAutomation.csproj
     
 3. Set Up Appium Server (Download from Appium.io)
 4. Enable Developer Mode on Android and Connect via USB (or use an emulator)
